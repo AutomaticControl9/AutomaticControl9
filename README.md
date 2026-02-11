@@ -6,7 +6,6 @@ Hello, I'm AutomaticControl.
 
 
 
-
 I am an enthusiastic and detail-oriented cybersecurity specialist deeply committed to safeguarding networks, systems, and data against the ever-changing landscape of cyber threats. I can convert intricate challenges into robust and secure solutions, drawing from substantial expertise in risk management, secure coding techniques, and vulnerability assessment.
 
 
