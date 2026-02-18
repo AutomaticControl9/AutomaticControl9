@@ -29,7 +29,7 @@ Check repositories and contributions to open-source projects, vulnerability scan
 
 
 ## Skills
-Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, Risk Registry, Email Security, Cyber security and ISO27001 implementation. 
+Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, Risk Registry, Email Security, Cyber security, GRC and ISO27001 implementation. 
 
 
 ## Tools
